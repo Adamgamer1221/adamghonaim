@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root{
+    --ant: url("dark.jpg");
+    --text: white;
+
+    color: var(--text);
+}
+
+input{
+    border-radius:5px;
+    margin-top: 574px;
+    margin-left: 40vw;
+    
+
+}
+div{
+    border: 20px;
+    margin-left: 45vw;
+
+}
+
+    
+    
+body{
+    background-image: var(--ant);
+}
+
+
